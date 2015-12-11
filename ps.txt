@@ -1,0 +1,1 @@
+ps command shows you all the terminal processes you have running, or all the processes on your machine
